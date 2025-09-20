@@ -1,4 +1,5 @@
 # wtsapp_autoreport_linux
+Automatically sends a specified text on a timer or manually to an open WhatsApp chat on a PC. 
 
 sudo pacman -S python tk wl-clipboard
 
